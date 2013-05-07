@@ -12,9 +12,6 @@
 	<author email="rahulthespaceman@gmail.com">
 		Rahul Bohra
 	</author>
-		<icon src="icon.png" gap:role="default" />
-	<preference name="phonegap-version" value="2.3.0" />
-
     <!--
         Enable individual API permissions by defining each here.
         The 'device' permission is required for the 'deviceready' event.
