@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id        = "in.kitnahua.sudoku"
+	version   = "1.0.0">
+	<name>Sudoku</name>
+	<description>
+		Sudoku - Test your brain
+	</description>
+	<author email="rahulthespaceman@gmail.com">
+		Rahul Bohra
+	</author>
+		<icon src="icon.png" gap:role="default" />
+	<preference name="phonegap-version" value="2.3.0" />
+</widget>

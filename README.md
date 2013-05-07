@@ -1,0 +1,1 @@
+This is an interactive sudoku solver that works on only the most basic strategies for solving sudokus (which in the vast majority of cases is enough). When ever a cell is entered by a user, the program sets to work figuring out candidates using a simple set of rules.
